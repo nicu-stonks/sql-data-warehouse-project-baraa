@@ -32,7 +32,8 @@ This project delivers:
 ## 🏗️ Data Architecture
 
 The pipeline implements the **Medallion Architecture**, progressing raw files into high-trust business views:
-<img width="851" height="754" alt="image" src="https://github.com/user-attachments/assets/5a3ae2e3-fc5e-4d77-83f1-dc0739f3f84e" />
+<img width="600" height="532" alt="image" src="https://github.com/user-attachments/assets/5a3ae2e3-fc5e-4d77-83f1-dc0739f3f84e" />
+
 **Bronze Layer (Ingetion)**
 * Bulk loads CSV data from raw ERP and CRM files.
 * Scripts ensure repeatable execution by truncating tables before re-loading.
