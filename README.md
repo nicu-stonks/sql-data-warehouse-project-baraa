@@ -12,12 +12,7 @@ An end-to-end data warehousing project built with **Microsoft SQL Server Managem
 ## 📑 Table of Contents
 * Project Overview
 * Data Architecture
-* Data Model (Gold Layer)
-* ETL Workflow & Transformations
 * Repository Structure
-* Getting Started
-* Sample Analytical Queries
-* Acknowledgments
 
 ---
 
